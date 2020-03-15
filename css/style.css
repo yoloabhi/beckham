@@ -8800,3 +8800,10 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+.servicelogos{
+  height: 60px;
+  width: 75px;
+  margin-bottom: 20px;
+
+}
